@@ -7,3 +7,6 @@ pluginManagement {
         kotlin("jvm") version kotlinVersion apply false
     }
 }
+
+include("L01-simple")
+include("L02-DSL")
