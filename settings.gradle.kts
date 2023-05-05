@@ -10,3 +10,4 @@ pluginManagement {
 
 include("L01-simple")
 include("L02-DSL")
+include("L03-coroutines")
