@@ -15,9 +15,9 @@ pluginManagement {
     }
 }
 
-include("L01-simple")
-include("L02-DSL")
-include("L03-coroutines")
-include("L04-channels")
-include("L05-multiplatform")
-include("L05-validation")
+include("simple")
+include("DSL")
+include("coroutines")
+include("channels")
+include("multiplatform")
+include("validation")
